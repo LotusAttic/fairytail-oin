@@ -6,7 +6,7 @@ Daidson Fonseca Alves
 
 === Group NN: group name ===
 
-* Nome Aluno 1 Completo, @githubuser1
+* Lucca Maciel De Moraes, @LuccaMacielM
 * Nome Aluno 2 Completo, @githubuser2
 * ...
 
